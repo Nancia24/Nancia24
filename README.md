@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nancia CHido Mwaramba, an aspiring Applied Data Scientist. 
+- 👋 Hi, I’m Nancia Chido Mwaramba, an aspiring Applied Data Scientist. 
 - 👀 I’m interested in big data, data science, software engineering and problem solving
 - 🌱 I’m currently studing towards a Bachelor in Business Science speacializing in Analytics and completing my software engineering with ALX.
 - 💞️ I’m looking to collaborate on c low level programing projects and java projects
