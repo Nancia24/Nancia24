@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on c low level programing projects and java projects
 - 📫 How to reach me through my 
 - email: nanciamwramba@gmail.com
--LinkedIn: https://www.linkedin.com/in/nancia-mwaramba-72194822b/overlay/contact-info/       
+- LinkedIn: https://www.linkedin.com/in/nancia-mwaramba-72194822b/overlay/contact-info/       
 
 <!---
 Nancia24/Nancia24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
