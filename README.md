@@ -2,7 +2,7 @@
 
 **Computer Science & Data Science Graduate** | Tech Explorer  
 
-📍 Cape Town, South Africa | 🔗 [LinkedIn](https://www.linkedin.com/in/nanciamwaramba) | 💼 [Email](mailto:nanciamwaramba@gmail.com)
+📍 Durban, South Africa | 🔗 [LinkedIn](https://www.linkedin.com/in/nanciamwaramba) | 💼 [Email](mailto:nanciamwaramba@gmail.com)
 
 ---
 
